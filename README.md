@@ -91,5 +91,3 @@ https://teampage-backend.onrender.com
 
 ```
 
-Make sure your **backend repo actually contains `requirements.txt`**, otherwise reviewers can’t run it locally.
-```
